@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.exe
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.deps.json
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.runtimeconfig.json
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.dll
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\bin\Debug\net5.0\TPFinal_BertiSebastian.pdb
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.AssemblyInfo.cs
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.dll
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\refint\TPFinal_BertiSebastian.dll
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.pdb
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\TPFinal_BertiSebastian.genruntimeconfig.cache
+C:\Users\Pc\Desktop\TPFinal_BertiSebastian\TPFinal_BertiSebastian\obj\Debug\net5.0\ref\TPFinal_BertiSebastian.dll

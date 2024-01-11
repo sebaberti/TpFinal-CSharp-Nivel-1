@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxz8j6puX/0eL7Pau0wgDiIe8B4aphVFWMxJ0Pde+FJBFFETRTht8PJbw5FmcXLKZ1yohbeY2FScGWNxPTmmBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\TPFinal_BertiSebastian\\TPFinal_BertiSebastian\\TPFinal_BertiSebastian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
